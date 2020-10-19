@@ -1,1 +1,3 @@
 # 2d-games-with-JS
+
+I challenged myself to build a basic 2D game using JavaScript, let's see what happens ...
